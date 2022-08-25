@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cloud-cropdata-in
+<!-- - 👋 Hi, I’m @cloud-cropdata-in -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/4TtTVTmBoXp8txRU0C/giphy.gif" width="400"/>
 </div>
@@ -22,7 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongo" alt="mongo" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/adnroid/android-original.svg" title="android" alt="android" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="android" alt="android" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>&nbsp;  
   </div>
   
